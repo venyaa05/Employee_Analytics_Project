@@ -1,0 +1,11 @@
+employee_id,name,age,department,salary,experience,job_role
+EMP001,Alice,28,HR,45000,3,HR Executive
+EMP002,Rahul,32,IT,72000,6,Developer
+EMP003,Priya,26,Finance,52000,2,Analyst
+EMP004,Arjun,35,IT,85000,9,Senior Developer
+EMP005,Neha,30,Marketing,58000,5,Marketing Executive
+EMP006,Karan,41,Finance,92000,14,Finance Manager
+EMP007,Meera,29,HR,49000,4,Recruiter
+EMP008,Dev,38,IT,98000,12,Tech Lead
+EMP009,Riya,25,Marketing,50000,2,Content Analyst
+EMP010,Vikram,45,Management,110000,18,Manager
