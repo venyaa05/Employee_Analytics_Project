@@ -113,8 +113,3 @@ The project follows the supplied project specification:
 
 ## Resume Positioning
 
-For a Data Analyst resume, emphasize:
-
-**Data Cleaning → SQL Analysis → EDA → KPI Development → Dashboard/Reporting → Business Insights**
-
-The OOP/CRUD implementation is the engineering layer supporting the analytics workflow.
